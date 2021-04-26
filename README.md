@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Yvan Nollet and I am a science enthusiast with a special interest in all areas of sciences and technology! 🐠
+My name is Yvan Nollet and I am a science enthusiast with a special interest in all areas of sciences and technology! :bee:
 
 - 🔭 I'm currently working on a radiative transfer model for Earth observation applications 🌍 called [Eradiate](https://eradiate.eu) [**@Rayference**](https://rayference.eu) 🇧🇪.
 - 🔬 I trained as an engineer (specialised in physics), with an additional background in astrophysics ⭐.
