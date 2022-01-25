@@ -20,4 +20,3 @@ My name is Yvan Nollet and I am a science enthusiast with a special interest in 
 - 🔭 I'm currently working on a radiative transfer model for Earth observation applications 🌍 called [Eradiate](https://eradiate.eu) [**@Rayference**](https://rayference.eu) 🇧🇪.
 - 🔬 I trained as an engineer (specialised in physics), with an additional background in astrophysics ⭐.
 - 🌱 I’m currently learning Python.
-- ✉️ reach me at yvan.nollet@rayference.eu
