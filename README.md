@@ -33,7 +33,7 @@ Driven by a deep-seated curiosity, I am passionately committed to exploring dive
 
 ## Presentations
 
-* [**Building an efficient gaseous absorption database for the Eradiate open-source 3D radiative transfer model.**](https://www.eradiate.eu/resources/docs/presentations/20230522-grasp_ace_summer_school.pdf) \
+* [**Building an efficient gaseous absorption database for the Eradiate open-source 3D radiative transfer model**](https://www.eradiate.eu/resources/docs/presentations/20230522-grasp_ace_summer_school.pdf) \
   Y. Nollet, Y.Govaerts, V. Leroy\
   *Poster presented at the GRASP ACE Summer School, Lille, France* \
   May 22-26 2023.
@@ -51,7 +51,6 @@ Driven by a deep-seated curiosity, I am passionately committed to exploring dive
 *A modern open-source 3D radiative transfer model for Earth observation applications based on the Monte Carlo Ray Tracing method*\
 <a href='https://eradiate.eu/site/'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
 <a href='https://github.com/eradiate/eradiate'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
-<br/>
 
 * [**Joseki**](https://github.com/rayference/joseki) \
 *Atmosphere reference thermophysical profiles factory, including tools to further characterize, modify or analyze atmospheric profiles* \
