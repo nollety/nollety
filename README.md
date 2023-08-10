@@ -48,8 +48,7 @@ Driven by a deep-seated curiosity, I am passionately committed to exploring dive
 
 
 * [**Eradiate**](https://github.com/eradiate/eradiate) \
-A modern open-source 3D radiative transfer model for Earth observation applications based on the Monte Carlo Ray Tracing method.
-<br/>
+*A modern open-source 3D radiative transfer model for Earth observation applications based on the Monte Carlo Ray Tracing method*\
 <a href='https://eradiate.eu/site/'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
 <a href='https://github.com/eradiate/eradiate'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
 <br/>
