@@ -55,8 +55,15 @@ Driven by a deep-seated curiosity, I am passionately committed to exploring dive
 * [**Joseki**](https://github.com/rayference/joseki) \
 *Atmosphere reference thermophysical profiles factory, including tools to further characterize, modify or analyze atmospheric profiles* \
 <a href='https://github.com/rayference/joseki'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
-<br/>
 
+* [**Tengen**](https://github.com/rayference/tengen) \
+*A place to gather reference solar irradiance spectra* \
+<a href='https://github.com/rayference/tengen'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
+
+
+* [**USSA1976**](https://github.com/rayference/ussa1976) \
+*Python implementation of the U.S. Standard Atmosphere, 1976* \
+<a href='https://github.com/rayference/ussa1976'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
 
 <br/>
 
