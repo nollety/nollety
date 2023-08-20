@@ -1,5 +1,6 @@
 <div align='center' style='margin-top: 20px;'>
 <a href='https://www.linkedin.com/in/yvan-nollet/'><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" title="LinkedIn" /></a>
+<a href="https://www.researchgate.net/profile/Yvan-Nollet"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" title="ResearchGate" /></a>
 </div>
 
 ---
