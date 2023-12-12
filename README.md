@@ -20,14 +20,17 @@
 
 Hi there 👋
 
-I am a research engineer currently working at 
-[**Rayference**](https://rayference.eu) as *Radiation Transfer Modelling Expert*.
+I am a research engineer currently working at the
+[**Royal Belgian Institute for Space Aeronomy**](https://www.aeronomie.be/) (BISA) as *Research Assistant*.
 
-Prior to joining Rayference, I studied a **Bachelor's degree in Engineering**, 
-a **Master's degree in Physics Engineering** (both at *Université libre de Bruxelles*)
-and a **Master of Science in Astrophysics** at *Université de Toulouse III - Paul Sabatier*.
+Prior to joining BISA, I studied 
+a **Bachelor's degree in Engineering**, 
+a **Master's degree in Physics Engineering** (both at *Université libre de Bruxelles*),
+a **Master of Science in Astrophysics** at *Université de Toulouse III - Paul Sabatier*
+and worked almost 5 years at [**Rayference**](https://rayference.eu) as *Radiation Transfer Modelling Expert*.
 
-My current work revolves around the different aspects of radiation transfer modelling for Earth Observation, including Monte Carlo ray tracing, simulation of satellite observations, molecular absorption modelling, particle microphysical and radiative properties characterization and radiative transfer models intercomparison.
+My current work revolves around the different aspects of Fourier-Transform Infrared instruments for atmospheric remote sensing and satellite products validation.
+My previous research activity focused on radiation transfer modelling for Earth Observation, including Monte Carlo ray tracing, simulation of satellite observations, molecular absorption modelling, particle microphysical and radiative properties characterization and radiative transfer models intercomparison.
 
 Driven by a deep-seated curiosity, I am passionately committed to exploring diverse areas of science and am continually eager to expand my knowledge and expertise.
 
