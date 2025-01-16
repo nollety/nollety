@@ -20,19 +20,18 @@
 
 Hi there 👋
 
-I am a research engineer currently working at the
-[**Royal Belgian Institute for Space Aeronomy**](https://www.aeronomie.be/) (BISA) as *Research Assistant*.
+I am a research engineer with a background in physics engineering and space sciences.
 
-Prior to joining BISA, I studied 
-a **Bachelor's degree in Engineering**, 
-a **Master's degree in Physics Engineering** (both at *Université libre de Bruxelles*),
-a **Master of Science in Astrophysics** at *Université de Toulouse III - Paul Sabatier*
-and worked almost 5 years at [**Rayference**](https://rayference.eu) as *Radiation Transfer Modelling Expert*.
+I studied 
+a **Bachelor's degree in Engineering** 
+and a **Master's degree in Physics Engineering** at *Université libre de Bruxelles* (Brussels, Belgium),
+and a **Master of Science in Space Science and Technology** at *Université de Toulouse III - Paul Sabatier* (Toulouse, France).
 
-My current work revolves around the different aspects of Fourier-Transform Infrared instruments for atmospheric remote sensing and satellite products validation.
-My previous research activity focused on radiation transfer modelling for Earth Observation, including Monte Carlo ray tracing, simulation of satellite observations, molecular absorption modelling, particle microphysical and radiative properties characterization and radiative transfer models intercomparison.
+I have worked as a *Radiation Transfer Modelling Expert* at [**Rayference**](https://rayference.eu) for almost 5 years. There, my research activity focused on radiation transfer modelling for Earth Observation, including Monte Carlo ray tracing, simulation of satellite observations, molecular absorption modelling, particle microphysical and radiative properties characterization and radiative transfer models intercomparison.
 
-Driven by a deep-seated curiosity, I am passionately committed to exploring diverse areas of science and am continually eager to expand my knowledge and expertise.
+I have then worked as a *Research Assistant* at [**Royal Belgian Institute for Space Aeronomy**](https://www.aeronomie.be/) (BISA) for a year. My work there revolved around the different aspects of Fourier-Transform Infrared instruments for atmospheric remote sensing and satellite products validation.
+
+Driven by a deep-seated curiosity, I am passionately committed to exploring diverse areas of science and am continually eager to expand my knowledge and expertise. I strive to bring a positive contribution to the world. I thrive in an open and collaborative environment that promotes access and sharing of knowledge for all.
 
 ## Publications
 
@@ -47,7 +46,7 @@ Driven by a deep-seated curiosity, I am passionately committed to exploring dive
 ## Presentations
 
 * [**Building an efficient gaseous absorption database for the Eradiate open-source 3D radiative transfer model**](https://www.eradiate.eu/resources/docs/presentations/20230522-grasp_ace_summer_school.pdf) \
-  Y. Nollet, Y.Govaerts, V. Leroy\
+  Y. Nollet, Y. Govaerts, V. Leroy\
   *Poster presented at the GRASP ACE Summer School, Lille, France* \
   May 22-26 2023.
 
